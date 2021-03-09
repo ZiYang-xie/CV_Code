@@ -1,0 +1,11 @@
+/build/
+/smoke.egg-info/
+/dist/
+
+/tools/logs
+.idea
+.sh
+.pth
+/datasets
+train_info
+.so

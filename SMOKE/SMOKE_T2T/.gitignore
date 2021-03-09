@@ -1,0 +1,9 @@
+/build/
+/smoke.egg-info/
+/dist/
+
+/tools/logs/
+
+.idea
+/datasets
+.pth
